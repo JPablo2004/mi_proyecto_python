@@ -285,4 +285,14 @@ Abre tu navegador en:
 ---
 
 ### 👤 Autor
-**Feibert Alirio Guzmán Pérez**
+**Juan Pablo Restrepo Alzate**
+
+---
+
+## Evidencias
+
+1. [Evidencia del repositorio de Git](https://github.com/JPablo2004/mi_proyecto_python.git)
+2. [Evidencia del pull request al repositorio original](xxx)
+3. [Evidencia del despliegue público en Render](https://mi-proyecto-python-j1yw.onrender.com/)
+4. [Evidencia de ejecución local 1](pantallazos/WhatsApp%20Image%202026-09-18%20at%2011.31.48%20AM.jpeg)
+5. [Evidencia de ejecución local 2](pantallazos/WhatsApp%20Image%202026-09-18%20at%2011.32.24%20AM.jpeg)
